@@ -1,5 +1,0 @@
-﻿
-
-k8s
-kubectl get pod -n maibao-test
-kubectl logs -f -n maibao-test xxxxx -c maidao-cms-operation
